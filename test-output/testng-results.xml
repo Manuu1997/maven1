@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-20T11:25:05 GMT-05:00" name="Default suite" finished-at="2023-03-20T11:26:59 GMT-05:00" duration-ms="114082">
+    <groups>
+    </groups>
+    <test started-at="2023-03-20T11:25:05 GMT-05:00" name="Default test" finished-at="2023-03-20T11:26:59 GMT-05:00" duration-ms="114082">
+      <class name="project1.guru99">
+        <test-method is-config="true" signature="tb()[pri:0, instance:project1.guru99@f0da945]" started-at="2023-03-20T11:25:05 GMT-05:00" name="tb" finished-at="2023-03-20T11:25:22 GMT-05:00" duration-ms="16692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tb -->
+        <test-method signature="login()[pri:1, instance:project1.guru99@f0da945]" started-at="2023-03-20T11:25:22 GMT-05:00" name="login" finished-at="2023-03-20T11:26:12 GMT-05:00" duration-ms="50491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Register()[pri:2, instance:project1.guru99@f0da945]" started-at="2023-03-20T11:26:12 GMT-05:00" name="Register" finished-at="2023-03-20T11:26:59 GMT-05:00" duration-ms="46776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+      </class> <!-- project1.guru99 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
